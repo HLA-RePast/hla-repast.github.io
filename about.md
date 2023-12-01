@@ -10,13 +10,10 @@ permalink: about/
 
 - Georgios Theodoropoulos 
 
-## Team
-A number of people contributed to concepts related to HLA_RePast over the years:
+## Core Team
 
 - Rob Minson (Main Developer of HLA_RePast)
 - Yi Zhang (on the Grid)
-- Ton Oguara 
-
 
 # Publications
 1.	Minson, R., Theodoropoulos, G., “Distributing RePast Agent-Based Simulations with HLA”, Computation and Concurrency Practice and Experience Journal – Wiley, Volume 20, Issue 10  (July 2008), Pages 1225-1256,  ISSN:1532-0626. DOI Bookmark: 10.1002/cpe.1280
