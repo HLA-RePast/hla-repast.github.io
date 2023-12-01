@@ -10,8 +10,7 @@ permalink: on_the_grid/
 
 ![](/assets/images/hla-repast/esci_logo.png)
 
-DS-Grid was one of only four international "sister" projects funded by the e-Science Core Programme with the aim to establish synergistic links between individual UK e-Science projects  and leading Grid/e-Science projects from around the globe 
-(e-Science Sister Project [GR/S82862/01](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/S82862/01)). 
+In one of the **earliest efforts that pioneered the deployment of HLA simulations on the Grid**,  the **DS-Grid** project developed the HLA_Grid_RePast  system for the execution of HLA_RePast  on Grid platforms. DS-Grid was one of only four international “sister” projects funded by the UK e-Science Core Programme with the aim to establish synergistic links between individual UK e-Science projects and leading Grid/e-Science projects from around the globe ((e-Science Sister Project [GR/S82862/01](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/S82862/01)), in partnership with NTU, Singapore). 
 
 The vision of the DS-Grid project was a “Grid plug-and-play distributed simulation system", 
 a distributed collaborative simulation environment where researchers with different domain knowledge and expertise, 
@@ -19,10 +18,8 @@ at different locations, develop, modify, assemble and execute distributed simula
 While HLA enables the construction of large-scale distributed simulations using existing and possibly distributed simulation components, 
 Grid technologies enable collaboration and the use of distributed computing resources, 
 while also facilitating access to geographically distributed data sets. 
-![](/assets/images/hla-repast/esci-logo.png)
 
-As part of the project, HLA_RePast was ported onto Globus Toolkit v3 and experiments were conducted in WAN environments, 
-where different HLA_RePast Federates executed in different countries, including across UK and Singapore. 
+The HLA_Grid_RePast system integrates HLA_RePast onto Globus Toolkit v3. The system was deployed across UK and Singapore enabling the execution of a cross continental HLA_RePast Federation.
 This was the **first  time ever such a cross-continental HLA infrastructure for MAS simulations was set up 
 and the first time a RePast simulation was partitioned across 2 continents.**
 
