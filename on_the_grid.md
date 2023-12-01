@@ -5,7 +5,7 @@ permalink: on_the_grid/
 ---
 
 
-# HLA_Grid_Repast: HLA_RePast on the Grid
+# HLA_Grid_Repast
 
 ![](/assets/images/hla-repast/esci_logo.png)
 
