@@ -5,8 +5,7 @@ permalink: on_the_grid/
 ---
 
 
-# HLA_RePast on the Grid
-# The DS-Grid e-Science Project
+# HLA_Grid_Repast: HLA_RePast on the Grid
 
 ![](/assets/images/hla-repast/esci_logo.png)
 
