@@ -8,7 +8,7 @@ permalink: about/
 
 ## Principal Investigator 
 
-- Georgios Theodoropoulos (PI)
+- Georgios Theodoropoulos 
 
 ## Team
 A number of people contributed to concepts related to HLA_RePast over the years:
